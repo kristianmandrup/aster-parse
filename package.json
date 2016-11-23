@@ -20,7 +20,7 @@
     "rx": "^4.1.0"
   },
   "devDependencies": {
-    "esprima": "jquery/esprima#master",
+    "esprima": "^3.1.0",
     "mocha": "*"
   }
 }
